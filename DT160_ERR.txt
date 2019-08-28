@@ -1,0 +1,5 @@
+ERR1740507_1_1.fastq.gz
+ERR1740508_1_2.fastq.gz
+ERR1740509_1_3.fastq.gz
+ERR1740510_1_4.fastq.gz
+ERR1740511_1_5.fastq.gz
