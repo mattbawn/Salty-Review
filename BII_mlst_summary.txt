@@ -1,0 +1,6 @@
+mlst_report_1 34
+mlst_report_2 34
+mlst_report_3 34
+mlst_report_4 34
+mlst_report_5 34
+mlst_report_6 34
